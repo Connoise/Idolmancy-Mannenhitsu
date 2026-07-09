@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="24" fill="#12121a"/>
+  <!-- fountain pen nib -->
+  <path d="M64 18 L84 58 L64 104 L44 58 Z" fill="#8b7cf6"/>
+  <circle cx="64" cy="58" r="7" fill="#12121a"/>
+  <path d="M64 65 L64 96" stroke="#12121a" stroke-width="4"/>
+  <!-- ink line -->
+  <path d="M28 112 Q48 104 64 112 T100 112" stroke="#5eead4" stroke-width="5" fill="none" stroke-linecap="round"/>
+</svg>

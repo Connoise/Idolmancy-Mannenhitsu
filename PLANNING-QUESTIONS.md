@@ -7,6 +7,11 @@
 Answer inline under each question (or in a reply); recommended defaults are
 marked so "agree with the default" is a valid answer.
 
+> **Status: answered (2026-07-09).** The decisions are reflected in
+> [README.md](./README.md) (what was built) and [FUTURE.md](./FUTURE.md)
+> (what was deferred). Headline decision on Q1: built standalone in this repo,
+> mobile-first, structured for a later port into the Idolmancer suite.
+
 ---
 
 ## Context from the Idolmancy suite
